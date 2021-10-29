@@ -33,4 +33,14 @@ html, body {
       flex: auto;
       overflow-y: auto;
   }
+  #about {
+    background-color: yellow;
+  }
+  #services {
+    background-color: lightblue;
+  }
+  #contact {
+    background-color: lightpink;
+  }
+  
  
